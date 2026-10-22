@@ -4,4 +4,11 @@ An interactive HR dashboard built with Microsoft Power BI to explore workforce c
 
 # Dashboard Preview
 
-<h2>Home</h2>
+### Home
+![HR Dashboard Home](screenshots/home.png)
+
+### Actions
+![HR Dashboard Insights](screenshots/action.png)
+
+### Details
+![HR Dashboard Details](screenshots/detail.png)
